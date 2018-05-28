@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Repository for reproducing issue 32905 from rails repository. but cannot reproduce it.
 
-Things you may want to cover:
+## Seed
+```ruby
+rails db:seed
+```
 
-* Ruby version
 
-* System dependencies
+System configuration
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails version: 5.1.6
+Ruby version: 2.4.1
